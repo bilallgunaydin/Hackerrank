@@ -1,0 +1,16 @@
+C:\Users\Bilal\Desktop\Pratikler\Hackrank_DictionariesandMaps\bin\Debug\net5.0\Hackrank_DictionariesandMaps.exe
+C:\Users\Bilal\Desktop\Pratikler\Hackrank_DictionariesandMaps\bin\Debug\net5.0\Hackrank_DictionariesandMaps.deps.json
+C:\Users\Bilal\Desktop\Pratikler\Hackrank_DictionariesandMaps\bin\Debug\net5.0\Hackrank_DictionariesandMaps.runtimeconfig.json
+C:\Users\Bilal\Desktop\Pratikler\Hackrank_DictionariesandMaps\bin\Debug\net5.0\Hackrank_DictionariesandMaps.runtimeconfig.dev.json
+C:\Users\Bilal\Desktop\Pratikler\Hackrank_DictionariesandMaps\bin\Debug\net5.0\Hackrank_DictionariesandMaps.dll
+C:\Users\Bilal\Desktop\Pratikler\Hackrank_DictionariesandMaps\bin\Debug\net5.0\ref\Hackrank_DictionariesandMaps.dll
+C:\Users\Bilal\Desktop\Pratikler\Hackrank_DictionariesandMaps\bin\Debug\net5.0\Hackrank_DictionariesandMaps.pdb
+C:\Users\Bilal\Desktop\Pratikler\Hackrank_DictionariesandMaps\obj\Debug\net5.0\Hackrank_DictionariesandMaps.csproj.AssemblyReference.cache
+C:\Users\Bilal\Desktop\Pratikler\Hackrank_DictionariesandMaps\obj\Debug\net5.0\Hackrank_DictionariesandMaps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bilal\Desktop\Pratikler\Hackrank_DictionariesandMaps\obj\Debug\net5.0\Hackrank_DictionariesandMaps.AssemblyInfoInputs.cache
+C:\Users\Bilal\Desktop\Pratikler\Hackrank_DictionariesandMaps\obj\Debug\net5.0\Hackrank_DictionariesandMaps.AssemblyInfo.cs
+C:\Users\Bilal\Desktop\Pratikler\Hackrank_DictionariesandMaps\obj\Debug\net5.0\Hackrank_DictionariesandMaps.csproj.CoreCompileInputs.cache
+C:\Users\Bilal\Desktop\Pratikler\Hackrank_DictionariesandMaps\obj\Debug\net5.0\Hackrank_DictionariesandMaps.dll
+C:\Users\Bilal\Desktop\Pratikler\Hackrank_DictionariesandMaps\obj\Debug\net5.0\ref\Hackrank_DictionariesandMaps.dll
+C:\Users\Bilal\Desktop\Pratikler\Hackrank_DictionariesandMaps\obj\Debug\net5.0\Hackrank_DictionariesandMaps.pdb
+C:\Users\Bilal\Desktop\Pratikler\Hackrank_DictionariesandMaps\obj\Debug\net5.0\Hackrank_DictionariesandMaps.genruntimeconfig.cache

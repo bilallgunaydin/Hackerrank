@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "hackrank_SimpleArraySum/1.0.0": {
+        "runtime": {
+          "hackrank_SimpleArraySum.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "hackrank_SimpleArraySum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

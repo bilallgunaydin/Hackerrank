@@ -1,0 +1,16 @@
+C:\Users\Bilal\Desktop\Pratikler\hackrank_Exceptions - String to Integer\bin\Debug\net5.0\hackrank_Exceptions - String to Integer.exe
+C:\Users\Bilal\Desktop\Pratikler\hackrank_Exceptions - String to Integer\bin\Debug\net5.0\hackrank_Exceptions - String to Integer.deps.json
+C:\Users\Bilal\Desktop\Pratikler\hackrank_Exceptions - String to Integer\bin\Debug\net5.0\hackrank_Exceptions - String to Integer.runtimeconfig.json
+C:\Users\Bilal\Desktop\Pratikler\hackrank_Exceptions - String to Integer\bin\Debug\net5.0\hackrank_Exceptions - String to Integer.runtimeconfig.dev.json
+C:\Users\Bilal\Desktop\Pratikler\hackrank_Exceptions - String to Integer\bin\Debug\net5.0\hackrank_Exceptions - String to Integer.dll
+C:\Users\Bilal\Desktop\Pratikler\hackrank_Exceptions - String to Integer\bin\Debug\net5.0\ref\hackrank_Exceptions - String to Integer.dll
+C:\Users\Bilal\Desktop\Pratikler\hackrank_Exceptions - String to Integer\bin\Debug\net5.0\hackrank_Exceptions - String to Integer.pdb
+C:\Users\Bilal\Desktop\Pratikler\hackrank_Exceptions - String to Integer\obj\Debug\net5.0\hackrank_Exceptions - String to Integer.csproj.AssemblyReference.cache
+C:\Users\Bilal\Desktop\Pratikler\hackrank_Exceptions - String to Integer\obj\Debug\net5.0\hackrank_Exceptions - String to Integer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bilal\Desktop\Pratikler\hackrank_Exceptions - String to Integer\obj\Debug\net5.0\hackrank_Exceptions - String to Integer.AssemblyInfoInputs.cache
+C:\Users\Bilal\Desktop\Pratikler\hackrank_Exceptions - String to Integer\obj\Debug\net5.0\hackrank_Exceptions - String to Integer.AssemblyInfo.cs
+C:\Users\Bilal\Desktop\Pratikler\hackrank_Exceptions - String to Integer\obj\Debug\net5.0\hackrank_Exceptions - String to Integer.csproj.CoreCompileInputs.cache
+C:\Users\Bilal\Desktop\Pratikler\hackrank_Exceptions - String to Integer\obj\Debug\net5.0\hackrank_Exceptions - String to Integer.dll
+C:\Users\Bilal\Desktop\Pratikler\hackrank_Exceptions - String to Integer\obj\Debug\net5.0\ref\hackrank_Exceptions - String to Integer.dll
+C:\Users\Bilal\Desktop\Pratikler\hackrank_Exceptions - String to Integer\obj\Debug\net5.0\hackrank_Exceptions - String to Integer.pdb
+C:\Users\Bilal\Desktop\Pratikler\hackrank_Exceptions - String to Integer\obj\Debug\net5.0\hackrank_Exceptions - String to Integer.genruntimeconfig.cache
